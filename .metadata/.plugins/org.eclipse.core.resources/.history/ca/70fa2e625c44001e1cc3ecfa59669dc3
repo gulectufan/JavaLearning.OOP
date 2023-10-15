@@ -1,0 +1,37 @@
+package sebayeGokcen.entities;
+
+public class Product {
+	// fields
+	private int id;
+	private String name;
+	private double price;
+	// constructors
+	public Product() {}
+	public Product(int id, String name, double price) {
+		this.id = id;	
+		this.name = name;
+		this.price = price;
+	}
+	// getters & setters
+	// id
+	public int getId() {
+		return product.id;
+	}
+	public void setId(int id) {
+		this.id=id;
+	}
+	// name
+	public String getName() {
+		return product.name;
+	}
+	public void setName(String name) {
+		this.name=name;
+	}
+	// price
+	public double getPrice() {
+		return product.price;
+	}
+	public void setPrice(double price) {
+		this.price=price;
+	}
+}

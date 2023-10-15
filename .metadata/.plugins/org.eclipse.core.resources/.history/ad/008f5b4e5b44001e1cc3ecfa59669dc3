@@ -1,0 +1,8 @@
+package sebayeGokcen.dataAccess;
+
+public interface IProductDao {
+	
+	
+	void add();
+
+}

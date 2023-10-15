@@ -1,0 +1,5 @@
+package sebayeGokcen.dataAccess;
+
+public class HibernateProductDao {
+
+}

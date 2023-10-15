@@ -1,0 +1,8 @@
+package sebayeGokcen.dataAccess;
+
+import sebayeGokcen.entities.Product;
+
+public class HibernateProductDao implements IProductDao{
+	
+
+}
