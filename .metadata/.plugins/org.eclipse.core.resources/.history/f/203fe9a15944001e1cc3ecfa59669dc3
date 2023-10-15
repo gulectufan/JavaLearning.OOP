@@ -1,5 +1,0 @@
-package sebayeGokcen.dataAccess;
-
-public interface IProductDao {
-
-}
